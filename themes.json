@@ -1,12 +1,5 @@
 {
-  "themes": [
-    "What is your favorite game?",
-    "What is your favorite movie of all time?",
-    "What's your favorite cartoon?",
-    "Who is the best written video game character?",
-    "What is your most unpopular opinion?",
-    "What's your favorite game genre?",
-    "What's your favorite shooter game?",
-    "What is the worst game ever?"
-  ]
+  "gaming": [ "What is your favorite game?", "Who is the best written video game character?", "What is your most unpopular gaming opinion?", "What's your favorite game genre?", "What's your favorite shooter game?", "What is the worst game ever?"],
+  "movies": ["What is the best movie of all time?", "What is the best cartoon of all time?", "What's the worst movie of all time", "Is Marvel or DC better?", "Do you like anime?"],
+  "music": ["What's your favorite song?", "What song is overrated?", "Whats your favorite music genre?"]
 }
